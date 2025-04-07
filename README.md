@@ -18,3 +18,4 @@
   ![Fluxograma Typebot](https://github.com/user-attachments/assets/5b1e46be-ef6a-4189-af2c-40e7d9442f48)
 
   link do fluxograma do chatbot <https://www.figma.com/board/gddjZs1odW7afnCtivrbOG/Fluxograma-Typebot?node-id=0-1&t=n8A3qqq5gFLWeDKz-1>
+![image](https://github.com/user-attachments/assets/e2a4506c-e59e-4998-9d44-c4923ed26332)
